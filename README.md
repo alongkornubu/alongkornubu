@@ -11,6 +11,8 @@ Junior Frontend Developer
 
 <a href="https://www.github.com/alongkornubu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alongkornubu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img src="https://komarev.com/ghpvc/?username=alongkornubu&style=flat-square&color=blue" alt=""/>
+
 
 ### Skills
 
