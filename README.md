@@ -7,7 +7,7 @@ Junior Frontend Developer
 * 🌍  I'm based in Ubonratchathani
 * 🖥️  See my portfolio at [My Port](http://alongkornubu.github.io/Portfolio-Tone/)
 * ✉️  You can contact me at [alongkorn.chaichana@yahoo.com](mailto:alongkorn.chaichana@yahoo.com)
-* 🧠  I'm learning react vue
+* 🧠  I'm learning html css js django php
 
 <a href="https://www.github.com/alongkornubu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alongkornubu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
