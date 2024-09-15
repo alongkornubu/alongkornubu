@@ -34,4 +34,4 @@ src="https://img.shields.io/github/followers/alongkornubu?logo=github&style=for-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alongkornubu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
